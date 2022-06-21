@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:shamo_app/pages/sign_up.dart';
 import 'package:shamo_app/pages/splash_screen.dart';
 import 'package:shamo_app/pages/sign_in.dart';
 import 'theme.dart';
@@ -16,6 +17,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => SplashScreen(),
         '/sign-in': (context) => SignIn(),
+        '/sign-up': (context) => SignUp(),
       },
     );
   }
