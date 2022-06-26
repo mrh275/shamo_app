@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:shamo_app/home/chat_page.dart';
-import 'package:shamo_app/home/home_page.dart';
-import 'package:shamo_app/home/profile_page.dart';
-import 'package:shamo_app/home/wishlist_page.dart';
+import 'package:shamo_app/pages/home/chat_page.dart';
+import 'package:shamo_app/pages/home/home_page.dart';
+import 'package:shamo_app/pages/home/profile_page.dart';
+import 'package:shamo_app/pages/home/wishlist_page.dart';
 import 'package:shamo_app/theme.dart';
 
 class MainPage extends StatefulWidget {
