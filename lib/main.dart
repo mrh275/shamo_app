@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:shamo_app/home/main_page.dart';
+import 'package:shamo_app/pages/home/main_page.dart';
 import 'package:shamo_app/pages/sign_up.dart';
 import 'package:shamo_app/pages/splash_screen.dart';
 import 'package:shamo_app/pages/sign_in.dart';
