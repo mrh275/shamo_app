@@ -59,7 +59,10 @@ class _MainPageState extends State<MainPage> {
               ),
               BottomNavigationBarItem(
                 icon: Container(
-                  margin: EdgeInsets.only(top: 20, bottom: 10, right: 50),
+                  margin: EdgeInsets.only(
+                    top: 20,
+                    bottom: 10,
+                  ),
                   child: Image.asset(
                     'assets/img/icon_chat.png',
                     width: 20,
@@ -70,7 +73,10 @@ class _MainPageState extends State<MainPage> {
               ),
               BottomNavigationBarItem(
                 icon: Container(
-                  margin: EdgeInsets.only(top: 20, bottom: 10, left: 50),
+                  margin: EdgeInsets.only(
+                    top: 20,
+                    bottom: 10,
+                  ),
                   child: Image.asset(
                     'assets/img/icon_favorite.png',
                     width: 20,
