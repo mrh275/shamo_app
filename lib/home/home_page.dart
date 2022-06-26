@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shamo_app/home/product_tile.dart';
+import 'package:shamo_app/widgets/product_tile.dart';
 import 'package:shamo_app/theme.dart';
 import 'package:shamo_app/widgets/product_cart.dart';
 
